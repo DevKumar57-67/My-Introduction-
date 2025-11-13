@@ -34,10 +34,10 @@ to create things that inform, inspire, and innovate.
 
 ## 🚀 Current Projects  
 
-### 🔹 [VariteX-AI](
+### 🔹 [VariteX-AI](https://github.com/DevKumar57-67/VariteX-AI)
 An intelligent AI system focused on context-aware language understanding and adaptive decision-making.  
 
-### 🔹 [TasteonTrack](
+### 🔹 [TasteonTrack](https://github.com/DevKumar57-67/TasteOnTrack)
 A food delivery app for travel enthusiast people who can have best taste on their tracks.
 
 
@@ -51,14 +51,11 @@ A food delivery app for travel enthusiast people who can have best taste on thei
 
 ---
 
-## 📊 GitHub Stats
-
-## Achievements
 
 ## 🌐 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/dev-kumar369)  
 - 📊 [Kaggle](https://www.kaggle.com/devilbornfire)  
-- 📧 **devkumarcontact@gmail.com** *(optional – add your preferred email)*  
+- 📧 **devvkumar999@gmail.com** - for collaboration 
 
 ---
 
